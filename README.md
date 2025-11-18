@@ -18,3 +18,4 @@ This project uses Machine Learning and Explainable AI techniques to predict whet
 This project uses the **Home Credit Default Risk Dataset** from Kaggle:
 
 ➡ Download from Kaggle and place inside:  
+### application_train.csv download link : https://www.kaggle.com/datasets/rakeshnereduapalli/home-credit-default-risk?select=application_train.csv
