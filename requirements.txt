@@ -1,0 +1,14 @@
+
+---
+
+## 📦 requirements.txt (copy into file named `requirements.txt`)
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+lime
+jupyter
